@@ -1,1 +1,1 @@
-installer pip install -r requirements
+installer pip install -r requirements.txt
